@@ -1,0 +1,11 @@
+D:\jawss\Source\Repos\AdventOfCode\day1\bin\Debug\netcoreapp3.0\day1.exe
+D:\jawss\Source\Repos\AdventOfCode\day1\bin\Debug\netcoreapp3.0\day1.deps.json
+D:\jawss\Source\Repos\AdventOfCode\day1\bin\Debug\netcoreapp3.0\day1.runtimeconfig.json
+D:\jawss\Source\Repos\AdventOfCode\day1\bin\Debug\netcoreapp3.0\day1.runtimeconfig.dev.json
+D:\jawss\Source\Repos\AdventOfCode\day1\bin\Debug\netcoreapp3.0\day1.dll
+D:\jawss\Source\Repos\AdventOfCode\day1\bin\Debug\netcoreapp3.0\day1.pdb
+D:\jawss\Source\Repos\AdventOfCode\day1\obj\Debug\netcoreapp3.0\day1.csprojAssemblyReference.cache
+D:\jawss\Source\Repos\AdventOfCode\day1\obj\Debug\netcoreapp3.0\day1.AssemblyInfoInputs.cache
+D:\jawss\Source\Repos\AdventOfCode\day1\obj\Debug\netcoreapp3.0\day1.AssemblyInfo.cs
+D:\jawss\Source\Repos\AdventOfCode\day1\obj\Debug\netcoreapp3.0\day1.dll
+D:\jawss\Source\Repos\AdventOfCode\day1\obj\Debug\netcoreapp3.0\day1.pdb
